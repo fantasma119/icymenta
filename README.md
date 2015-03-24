@@ -1,2 +1,2 @@
 # icymenta
-一个基于python的爬虫框架
+一个基于python的爬虫框架，可选择用requests或者phantomjs+selenium进行抓取
